@@ -1,4 +1,25 @@
-  Titel{
+  p{
+  color: green;
+  
+}
+
+#kaas{
+  color: yellow;
+}
+
+.blauw{
+  color: orange; text-align: center;
+  }
+  
+  H{
+    color: orange;
+  }
+  
+  li{
+    color: orange;
+  }
+
+Titel{
     color: green;
   }
   
